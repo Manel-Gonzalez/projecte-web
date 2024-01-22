@@ -6,3 +6,8 @@ body {
     color: #333;
   }
   
+  button{
+    padding: 10px;
+    background-color: #008080;
+    color: white;
+  }
